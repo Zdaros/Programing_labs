@@ -1,0 +1,5 @@
+/Users/koristuvac/Documents/learne/Programing_labs/Object_o/Lab5/Lab5/obj/x86/Debug/Lab5.csproj.CoreCompileInputs.cache
+/Users/koristuvac/Documents/learne/Programing_labs/Object_o/Lab5/Lab5/bin/Debug/Lab5.exe
+/Users/koristuvac/Documents/learne/Programing_labs/Object_o/Lab5/Lab5/bin/Debug/Lab5.pdb
+/Users/koristuvac/Documents/learne/Programing_labs/Object_o/Lab5/Lab5/obj/x86/Debug/Lab5.exe
+/Users/koristuvac/Documents/learne/Programing_labs/Object_o/Lab5/Lab5/obj/x86/Debug/Lab5.pdb

@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{619F043A-99B1-4C4E-AAF9-81CFE4625DF4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab5/Program.cs">
+    <Files>
+      <File FileName="Lab5/Program.cs" Line="17" Column="25" />
+      <File FileName="Lab5/Properties/Base.cs" Line="9" Column="10" />
+      <File FileName="Lab5/Properties/DerA.cs" Line="8" Column="10" />
+      <File FileName="Lab5/Properties/DerB.cs" Line="9" Column="10" />
+      <File FileName="Lab5/Properties/DerAB.cs" Line="9" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Lab5 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

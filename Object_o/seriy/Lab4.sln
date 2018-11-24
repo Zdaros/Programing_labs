@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "seriy", "seriy\seriy.csproj", "{DD06E0F5-374C-4B6A-BE16-D25526AAA91C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4", "seriy\Lab4.csproj", "{DD06E0F5-374C-4B6A-BE16-D25526AAA91C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

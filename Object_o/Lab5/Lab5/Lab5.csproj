@@ -3,10 +3,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{DD06E0F5-374C-4B6A-BE16-D25526AAA91C}</ProjectGuid>
+    <ProjectGuid>{619F043A-99B1-4C4E-AAF9-81CFE4625DF4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>seriy</RootNamespace>
-    <AssemblyName>seriy</AssemblyName>
+    <RootNamespace>Lab5</RootNamespace>
+    <AssemblyName>Lab5</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
@@ -34,6 +34,10 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\DerA.cs" />
+    <Compile Include="Properties\DerB.cs" />
+    <Compile Include="Properties\DerAB.cs" />
+    <Compile Include="Properties\Base.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
