@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>6 lab</title>
+    <link rel="stylesheet" href="css.css">
+  </head>
+  <body>
+    <div>Bookmarks:</div>
+    <ul id="ForBookmarks">
+      <?php include 'php.php'; ?>
+    </ul>
+    <div>
+      <div class="line">
+        <button type="button" name="button" onclick="AddLisner();">Add</button>
+      </div>
+      <div class="line">
+        <button type="button" name="button" onclick="DeleteLisner();">Delete</button>
+      </div>
+    <div>
+      <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+      <script type="text/javascript" src="js.js"></script>
+      <script type="text/javascript">JsonSetUp();</script>
+  </body>
+</html>
